@@ -1,0 +1,31 @@
+.form-input {
+    border-radius: 10px !important;
+    background-color: 	#e6e6fa !important;
+}
+
+.button {
+    width: 12%;
+    border-radius: 10px !important;
+}
+
+
+
+@media (max-width: 576px){
+    .button {
+        display: block;
+        
+    }
+
+    .main-button {
+        width: 700%;
+    }
+}
+
+@media (min-width: 768px) { 
+    .button {
+        width: 40%;
+        border-radius: 10px !important;
+        margin-bottom: 10px;
+        margin-left: 5px;
+    }
+}

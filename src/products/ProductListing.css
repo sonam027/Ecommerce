@@ -1,0 +1,13 @@
+.checked {
+  color: #84b0f2;
+}
+.ui-detail{
+  height: 50px ;
+}
+.pagination {
+  display: flex;
+  padding-left: 0;
+  list-style: none;
+  margin-left: 350px;
+  margin-top: 0px !important;
+}

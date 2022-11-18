@@ -1,0 +1,14 @@
+
+.describe{
+    line-height: 1em;
+    height: 1.8em;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 100%;   
+}
+
+.product-card {
+    height: 200px !important;
+    padding: 10px !important;
+}

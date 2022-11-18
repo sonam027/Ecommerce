@@ -1,0 +1,186 @@
+.main {
+  background-color: #b0e0e6;
+  height: 659px;
+  padding: 4rem;
+  overflow: clip;
+}
+
+.card {
+  width: 45%;
+  /* margin-top: 6rem; */
+  height: 30rem;
+  border-radius: 12px !important;
+}
+
+.main-card {
+  background-color: #eeeded !important;
+}
+
+.loginform {
+  width: 80%;
+}
+
+.form-input {
+  border-radius: 10px !important;
+  background-color: white !important;
+}
+
+.name {
+  text-align: center;
+  width: 5rem;
+  height: 3rem;
+  border-radius: 10px !important;
+  margin-top: 5px;
+  margin-bottom: 8px !important;
+  margin-left: 190px !important;
+}
+
+.form-button {
+  border-radius: 12px !important;
+  width: 100px;
+}
+
+/* .loginform {
+    background-color: antiquewhite !important;
+} */
+
+.media-button {
+  width: 200px;
+}
+
+/* .main {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  padding: 90px 0 90px 0;
+  background-color: #B8DCF1;
+  height: max-content
+} */
+
+/* .sub-main {
+  display: flex;
+  height: auto;
+  width: 50%;
+  border-radius: 5px;
+  background-color: #D4E6F1;
+  flex-direction: column;
+} */
+
+/* input {
+  height: 30px;
+  width: max-content;
+  border: none;
+  background-color: #fff;
+  border-radius: 3px;
+} */
+
+.Invalid {
+  width: 250px;
+  padding-left: 40px;
+  font-size: 15px;
+  box-shadow: 1px 1px 5px red;
+}
+
+/* .name {
+  width: 250px;
+  padding-left: 40px;
+  font-size: 15px;
+} */
+
+.password {
+  border: none;
+  padding-top: 5px;
+}
+
+/* button {
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  font-size: 10px;
+} */
+
+.login-button {
+  padding-top: 10px;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.yms-style {
+  height: 30px;
+  width: 60px;
+  font-size: 20px;
+  border-radius: 15px;
+  background-color: #3498DB;
+  color: white;
+  margin-bottom: 10px;
+  padding: 3px;
+}
+
+.yms {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.bottom-container {
+  width: 200px;
+  margin-top: 10px
+}
+
+.bottom-container-style {
+  flex-direction: column;
+}
+
+.cancel-button {
+  background-color: grey;
+  border: none;
+  color: white;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.cancel-button:hover {
+  box-shadow: 2px 2px 5px 2px grey;
+}
+
+.submit-button {
+  background-color: #3498DB;
+  border: none;
+  color: white;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.submit-button:hover {
+  box-shadow: 2px 2px 5px 2px #3498DB;
+}
+
+.bottom-container-fb {
+  width: 180px;
+  margin-bottom: 10px;
+  border: 1px solid #3498DB;
+  color: #3498DB;
+  border-radius: 10px;
+}
+
+.bottom-container-fb:hover {
+  box-shadow: 1px 1px 5px 1px #3498DB;
+}
+
+.bottom-container-google {
+  width: 180px;
+  margin-bottom: 10px;
+  border: 1px solid rgb(209, 29, 68);
+  color: rgb(209, 29, 68);
+  border-radius: 10px;
+}
+
+.bottom-container-google:hover {
+  box-shadow: 1px 1px 5px 1px rgb(209, 29, 68);
+}

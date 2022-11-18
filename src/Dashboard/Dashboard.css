@@ -1,0 +1,51 @@
+.menu-bar {
+  height: 34rem !important;
+  border-radius: 10px !important;
+}
+.name {
+  text-align: center;
+  width: 5rem;
+  height: 3rem;
+  border-radius: 10px !important;
+
+}
+
+.icons {
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.icons li {
+  height: 40px;
+  width: 40px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  float: right;
+  margin-bottom: 5px;
+}
+
+.user-image {
+  height: 45px;
+  width: 45px;
+}
+
+.nav-item:hover {
+  background-color: lightblue;
+  border-radius: 15px !important;
+  color: black;
+  padding: 2px;
+}
+
+.nav-link {
+  color: black !important;
+  text-decoration: none;
+}
+
+.Dashboard {
+  overflow: hidden;
+  background-color: #b0e0e6;
+  height: 41.5rem;
+}

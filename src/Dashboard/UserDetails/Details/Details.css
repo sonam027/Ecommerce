@@ -1,0 +1,23 @@
+@media (max-width: 768px) {
+  .user-img {
+    display: block;
+    margin-left: 60px;
+    margin-right: auto;
+    width: 80%;
+  }
+
+  .back-button {
+    margin-top: 50px !important;
+    margin-left: 100px !important;
+  }
+}
+
+/* .back-button {
+  margin-top: 100px;
+  margin-left: 90px;
+} */
+
+
+.back-button {
+    width: 80px;
+}
